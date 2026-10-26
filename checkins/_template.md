@@ -2,14 +2,23 @@
 ## BOD:
 
 Location: 
-Start time: 
-Time block: 
-Materials: 
-Target: 
+Time blocks:
+- 
+Materials:
+- 
+Targets:
+- 
+Holes in my head:
+- 
 
 ## EOD
 
-Completed: 
-Learned: 
+Completed:
+- 
+Learned:
+- 
 Friction: 
 Next: 
+- 
+Weekly Objectives:
+- 
