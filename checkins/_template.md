@@ -8,7 +8,7 @@ Materials:
 - 
 Targets:
 - 
-Holes in my head:
+Gaps in my understanding:
 - 
 
 ## EOD
